@@ -1,0 +1,1 @@
+dodato za granu dev koja se pushuje na git
