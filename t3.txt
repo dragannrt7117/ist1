@@ -1,5 +1,2 @@
-
-
-
-master-merge=drugi pokusaj=treci pokusaj
+master
 
